@@ -14,10 +14,3 @@ I'll be uploading my daily practice code, exercises, and small projects as I pro
 ## Structure  
 - Each day's practice will be organized into folders named `Day-<number>` (e.g., `Day-1`, `Day-2`, etc.).  
 - Each folder will contain code files, notes, and any relevant resources for that day's learning.  
-
-## Why Go?  
-Go is a powerful, open-source programming language created by Google. It is known for:  
-- Simplicity and readability.  
-- Built-in support for concurrency with goroutines.  
-- High performance and scalability.  
-- A robust standard library.  
