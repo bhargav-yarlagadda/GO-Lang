@@ -11,6 +11,10 @@ type shape interface{
 	perimeter() float64
 	 
 }
+
+// using interfaces we can implement polymorphism 
+// if the method signature exacly matches with function declaration we can call the method usin the type  ex: structName.funcName()
+
 type rect struct{
 	width ,height float64
 }
